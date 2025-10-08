@@ -1,0 +1,5 @@
+{
+  "name": "Realistic Employee Data Generator",
+  "description": "An application that uses AI to define a realistic data schema and then generates a downloadable CSV file with 100,000 employee records for a single company.",
+  "requestFramePermissions": []
+}
